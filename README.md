@@ -14,7 +14,7 @@ python llava-instruction.py
 Normally, only api key needed.
 ```python
 import openai
-openai.api_key = "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"
+openai.api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 Change version of ChatGPT you want to use.
 ```python
